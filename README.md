@@ -17,23 +17,23 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <pre>
 <code>
 &#60;div class="redes-sociales">
-&#60;a class="facebook" href="https://es-la.facebook.com/01luisrene" target="_blank"&#62;
+&#60;a class="facebook" href="https://es-la.facebook.com/<strong>01luisrene</strong>" target="_blank"&#62;
 &#60;i class="fa fa-facebook-official"&#62;&#60;/i&#62;
 &#60;/a&#62;
 
-&#60;a class="twitter" href="https://twitter.com/01luisrene" target="_blank"&#62;
+&#60;a class="twitter" href="https://twitter.com/<strong>01luisrene</strong>" target="_blank"&#62;
 &#60;i class="fa fa-twitter-square"&#62;&#60;/i&#62;
 &#60;/a&#62;
 
-&#60;a class="youtube" href="https://www.youtube.com/user/01luisrene" target="_blank"&#62;
+&#60;a class="youtube" href="https://www.youtube.com/user/<strong>01luisrene</strong>" target="_blank"&#62;
 &#60;i class="fa fa-youtube-square"&#62;&#60;/i&#62;
 &#60;/a&#62;
 
-&#60;a class="google" href="https://plus.google.com/+01LuisRene/posts" target="_blank"&#62;
+&#60;a class="google" href="https://plus.google.com/<strong>+01LuisRene</strong>" target="_blank"&#62;
 &#60;i class="fa fa-google-plus-square"&#62;&#60;/i&#62;
 &#60;/a>
 
-&#60;a class="github"  href="https://github.com/01luisrene" target="_blank"&#62;
+&#60;a class="github"  href="https://github.com/<strong>01luisrene</strong>" target="_blank"&#62;
 &#60;i class="fa fa-github-square"&#62;&#60;/i&#62;
 &#60;/a&#62;
 &#60;/div&#62;
@@ -52,7 +52,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 &#60;script type="text/javascript"&#62;
 var birdSprite='https://db.tt/dloFq76W';
 var targetElems=new Array('img','hr','table','td','div','input','textarea','button','select','ul','ol','li','h1','h2','h3','h4','p','code','object','a','b','strong','span');
-var twitterAccount = 'http://twitter.com/01luisrene';
+var twitterAccount = 'http://twitter.com/<strong>01luisrene</strong>';
 var twitterThisText ='';
 tripleflapInit();
 &#60;/script&#62;
