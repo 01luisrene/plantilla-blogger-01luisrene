@@ -13,28 +13,34 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <h2>Códigos para algunos Gadgets</h2>
 <h3>Redes sociales</h3>
 <p>Cópia este código en un gadget de <strong>HTML/JavaScript</strong>, solo modifica los enlaces para que se redireccione a tus redes sociales</p>
+<p>
+<pre>
+<code>
+&#60;div class="redes-sociales">
+&#60;a class="facebook" href="https://es-la.facebook.com/01luisrene" target="_blank"&#62;
+&#60;i class="fa fa-facebook-official"&#62;&#60;/i&#62;
+&#60;/a&#62;
 
-<div class="redes-sociales">
-<a class="facebook" href="https://es-la.facebook.com/01luisrene" target="_blank">
-<i class="fa fa-facebook-official"></i>
-</a>
+`&#60;a class="twitter" href="https://twitter.com/01luisrene" target="_blank"&#62;`
+&#60;i class="fa fa-twitter-square"&#62;&#60;/i&#62;
+&#60;/a&#62;
 
-<p><code>`&#60;a class="twitter" href="https://twitter.com/01luisrene" target="_blank"&#62;`</code></p>
-<i class="fa fa-twitter-square"></i>
-</a>
+&#60;a class="youtube" href="https://www.youtube.com/user/01luisrene" target="_blank"&#62;
+&#60;i class="fa fa-youtube-square"&#62;&#60;/i&#62;
+&#60;/a&#62;
 
-<a class="youtube" href="https://www.youtube.com/user/01luisrene" target="_blank">
-<i class="fa fa-youtube-square"></i>
-</a>
+&#60;a class="google" href="https://plus.google.com/+01LuisRene/posts" target="_blank"&#62;
+&#60;i class="fa fa-google-plus-square"&#62;&#60;/i&#62;
+&#60;/a>
 
-<a class="google" href="https://plus.google.com/+01LuisRene/posts" target="_blank">
-<i class="fa fa-google-plus-square"></i>
-</a>
+&#60;a class="github"  href="https://github.com/01luisrene" target="_blank"&#62;
+&#60;i class="fa fa-github-square"&#62;&#60;/i&#62;
+&#60;/a&#62;
+&#60;/div&#62;
+</code>
+</pre>
+</p>
 
-<a class="github"  href="https://github.com/01luisrene" target="_blank">
-<i class="fa fa-github-square"></i>
-</a>
-</div>
 
 
 <h3>Pajarito de Twitter</h3>
