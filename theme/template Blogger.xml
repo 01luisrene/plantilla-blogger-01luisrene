@@ -1252,6 +1252,12 @@ body#layout .cargando
 </footer>
 </div>
 
+<!--politicas de cookies-->
+
+<div class='cookie' id='cookie' style='display:none;'>
+Este sitio, como la mayoría, usa cookies. Si sigues navegando entendemos que aceptas la <a href='http://01luisrene.blogspot.pe/p/politica-de-cookies.html'>política de cookies</a>
+<button class='btn btn-info btn-sm' id='btn-cookie'>Aceptar</button> 
+</div>
 
 
 <script src='//code.jquery.com/jquery-1.11.3.min.js'/>
@@ -1263,9 +1269,9 @@ body#layout .cargando
   jQuery(window).load(function() {
       jQuery(&quot;.estado&quot;).fadeOut();
       jQuery(&quot;.cargando&quot;).delay(1000).fadeOut(&quot;slow&quot;);
-  });
-
+ });
 </script>
+
 
 </body>
 </html>
