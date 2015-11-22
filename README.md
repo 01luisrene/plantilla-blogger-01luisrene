@@ -11,9 +11,10 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 </ul>
 
 <h2>Códigos para algunos Gadgets</h2>
+<h3>Redes sociales</h3>
 <p>Cópia este código en un gadget de <strong>HTML/JavaScript</strong>, solo modifica los enlaces para que se redireccione a tus redes sociales</p>
-<code>
-<pre>
+
+
 <div class="redes-sociales">
 <a class="facebook" href="https://es-la.facebook.com/01luisrene" target="_blank">
 <i class="fa fa-facebook-official"></i>
@@ -35,13 +36,12 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <i class="fa fa-github-square"></i>
 </a>
 </div>
-</pre>
-</code>
+
 
 <h3>Pajarito de Twitter</h3>
 <p>Cambia el usuario para que cuando el usuario precione click le redireccione a tu cuenta de Twitter</p>
 
-<pre>
+
 <script src="https://db.tt/tJaro9ju" type="text/javascript"></script>
 <script type="text/javascript">
 var birdSprite='https://db.tt/dloFq76W';
@@ -50,7 +50,7 @@ var twitterAccount = 'http://twitter.com/01luisrene';
 var twitterThisText ='';
 tripleflapInit();
 </script>
-</pre>
+
 
 <h3>Uso</h3>
 <p>Puedes usarlo libremente, modificarlo a tu antojo.</p>
