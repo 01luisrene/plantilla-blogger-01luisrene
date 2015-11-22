@@ -19,7 +19,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <i class="fa fa-facebook-official"></i>
 </a>
 
-<code>`<a class="twitter" href="https://twitter.com/01luisrene" target="_blank">`</code>
+<p><code>`<a class="twitter" href="https://twitter.com/01luisrene" target="_blank">`</code></p>
 <i class="fa fa-twitter-square"></i>
 </a>
 
