@@ -99,6 +99,14 @@
   background-position: center;
   margin: -34px 0 0 -34px;
 }
+
+/*Estilo aplicado cuando estas en modo diseño*/
+
+body#layout .cargando
+{
+	display:none;
+}
+
 .busqueda
 {
 	background:transparent !important;
@@ -175,8 +183,17 @@
 				
 					<article class='posts col-lg-4 col-md-6 col-sm-6 col-xs-12' expr:id='&quot;post&quot;+ data:post.id'>
 						<div class='contenedor-post'>
-                      <div class='miniatura'><a expr:href='data:post.url'><img class='img-responsive' expr:src='data:post.firstImageUrl'/></a></div>
-                      
+					<b:if cond='data:post.firstImageUrl'>
+                      <div class='miniatura'>
+							<a expr:href='data:post.url'>
+                      			<img class='img-responsive' expr:src='data:post.firstImageUrl'/>
+							</a>
+                      </div>
+                      <b:else/>
+							<a expr:href='data:post.url'>
+                      			<img class='img-responsive' src='https://dl.dropbox.com/s/ckrf8j90nrmof19/default.png'/>
+							</a>
+                     </b:if>
                       <div class='titulo-portada'><a expr:href='data:post.url'><h2><data:post.title/></h2></a></div>
                       <small><span class='autor'><i class='fa fa-user icon'/> by <data:post.author/></span> | <span class='time'><i class='fa fa-clock-o icon'/> <data:post.timestamp/></span></small>
                       <div class='resumen-entrada'><data:post.snippet/></div>
