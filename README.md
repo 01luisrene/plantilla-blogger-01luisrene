@@ -14,7 +14,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <h3>Redes sociales</h3>
 <p>Cópia este código en un gadget de <strong>HTML/JavaScript</strong>, solo modifica los enlaces para que se redireccione a tus redes sociales</p>
 
-
+`
 <div class="redes-sociales">
 <a class="facebook" href="https://es-la.facebook.com/01luisrene" target="_blank">
 <i class="fa fa-facebook-official"></i>
@@ -36,7 +36,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <i class="fa fa-github-square"></i>
 </a>
 </div>
-
+`
 
 <h3>Pajarito de Twitter</h3>
 <p>Cambia el usuario para que cuando el usuario precione click le redireccione a tu cuenta de Twitter</p>
