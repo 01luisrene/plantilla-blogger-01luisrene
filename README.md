@@ -41,7 +41,8 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 <h3>Pajarito de Twitter</h3>
 <p>Cambia el usuario para que cuando el usuario precione click le redireccione a tu cuenta de Twitter</p>
 
-
+<pre>
+<code>
 <script src="https://db.tt/tJaro9ju" type="text/javascript"></script>
 <script type="text/javascript">
 var birdSprite='https://db.tt/dloFq76W';
@@ -50,6 +51,8 @@ var twitterAccount = 'http://twitter.com/01luisrene';
 var twitterThisText ='';
 tripleflapInit();
 </script>
+</code>
+</pre>
 
 
 <h3>Uso</h3>
