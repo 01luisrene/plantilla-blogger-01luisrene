@@ -1,4 +1,4 @@
-# plantilla-blogger-01luisrene
+# plantilla  blogger  01luisrene
 Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla con el mundo.
 <h2>Demo</h2>
 <a href="http://www.01luisrene.blogspot.pe" target="_blank">Blogger 01luisrene</a>
