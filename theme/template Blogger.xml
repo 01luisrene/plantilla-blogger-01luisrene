@@ -1071,16 +1071,6 @@ body#layout .cargando
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML3' locked='false' title='paginación' type='HTML'>
-    <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-
-  <b:include name='quickedit'/>
-</b:includable>
-  </b:widget>
 </b:section>
 
 
