@@ -21,7 +21,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 &#60;i class="fa fa-facebook-official"&#62;&#60;/i&#62;
 &#60;/a&#62;
 
-`&#60;a class="twitter" href="https://twitter.com/01luisrene" target="_blank"&#62;`
+&#60;a class="twitter" href="https://twitter.com/01luisrene" target="_blank"&#62;
 &#60;i class="fa fa-twitter-square"&#62;&#60;/i&#62;
 &#60;/a&#62;
 
@@ -45,20 +45,20 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 
 <h3>Pajarito de Twitter</h3>
 <p>Cambia el usuario para que cuando el usuario precione click le redireccione a tu cuenta de Twitter</p>
-
+<p>
 <pre>
 <code>
-<script src="https://db.tt/tJaro9ju" type="text/javascript"></script>
-<script type="text/javascript">
+&#60;script src="https://db.tt/tJaro9ju" type="text/javascript"v&#62;&#60;/scriptv&#62;
+&#60;script type="text/javascript"&#62;
 var birdSprite='https://db.tt/dloFq76W';
 var targetElems=new Array('img','hr','table','td','div','input','textarea','button','select','ul','ol','li','h1','h2','h3','h4','p','code','object','a','b','strong','span');
 var twitterAccount = 'http://twitter.com/01luisrene';
 var twitterThisText ='';
 tripleflapInit();
-</script>
+&#60;/script&#62;
 </code>
 </pre>
-
+</p>
 
 <h3>Uso</h3>
 <p>Puedes usarlo libremente, modificarlo a tu antojo.</p>
