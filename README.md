@@ -44,7 +44,7 @@ Esta es una plantilla de Blogger desarrollada por 01luisrene para compartirla co
 
 
 <h3>Pajarito de Twitter</h3>
-<p>Cambia el usuario para que cuando el usuario precione click le redireccione a tu cuenta de Twitter</p>
+<p>Cambia el usuario <strong>01luisrene</strong> por el tuyo, para que cuando tus visitantes precionen click les redireccione a tu cuenta de Twitter</p>
 <p>
 <pre>
 <code>
